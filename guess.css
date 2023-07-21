@@ -1,0 +1,23 @@
+body{
+  background-color: #BAABDA;
+  text-align: center;
+}
+h1{
+  font-family: cursive;
+font-weight: bold;
+color: white;
+font-size: 40px;
+}
+p{
+  padding: 2px;
+  color: #FFEDED;
+  font-size: 20px;
+}
+.label{
+  color: white;
+  text-align: center;
+  font-size: 20px;
+}
+.button:hover{
+  background-color: #BAABDA;
+}
